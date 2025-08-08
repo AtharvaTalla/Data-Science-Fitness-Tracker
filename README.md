@@ -1,8 +1,6 @@
 # Data Science - Fitness Tracker Project
 
 **NOTE:** 
-> **I am in no way claiming ownership of this project. This is a guided project from [Dave Ebbelaar](https://www.youtube.com/playlist?list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K) on YouTube.  I just followed along with his video tutorial. He makes these tutorial videos since he thinks that by sharing them, this will be a great tutorial and experience for those who are just starting their data science career and have a passion for it.**
-
 > **I have kept my unedited Python files dubbed "filename_OLD.py" so that there is something I could go back to and re-learn if needed.**
 
 ## Table of Contents:
